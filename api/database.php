@@ -1,6 +1,6 @@
 <?php
 
-	$host = '192.168.5.103';
+	$host = '172.16.0.107';
 	$db = 'tasks';
 	$port = 3306;
 	$user = 'gerson';
